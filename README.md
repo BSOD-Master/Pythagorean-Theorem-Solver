@@ -6,8 +6,9 @@ This repository holds the source code and release for something that can help yo
 2. [Installation](#installation)
 
 ## About
-I made this application to help me and other people with their math problems. Thats basically it.  
-I hope you guys find it useful!
+I made this application to help me and other people with their math problems.  
+I hope you guys find it useful!  
+I am also quite new to C. I know the basics, but I can't find any useful 3rd party libraries, like for modifying the Windows Registry.
 
 ## Installation
 1. Downlaod the source files into a directory
